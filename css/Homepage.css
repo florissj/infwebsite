@@ -75,12 +75,12 @@ ol{
 }
 
 ul{
-	font-family: Helvetica
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #titellijst{
-	font-size:15pt
-	padding 1%;
+	font-size: 17pt;
+	padding: 1%;
 } 
 
 ul {
@@ -89,7 +89,7 @@ ul {
   padding: 1%;
   width: 90%;
   background-color: light;
-  font-family: Helvetica;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 15pt;
   color: #c0c5ce;
 }
